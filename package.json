@@ -1,0 +1,27 @@
+{
+  "name": "automation_js_2_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "eslint": "eslint",
+    "prettier": "prettier"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chukinant/automation_js_2_node.js.git"
+  },
+  "author": "Anton Chukin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chukinant/automation_js_2_node.js/issues"
+  },
+  "homepage": "https://github.com/chukinant/automation_js_2_node.js#readme",
+  "dependencies": {
+    "prettier": "^3.5.3"
+  }
+}
